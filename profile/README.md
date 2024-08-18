@@ -8,8 +8,8 @@
 
 - 姓名：宛浩宇
 - 学校：电子科技大学
-- 邮箱：
-- GitHub：
+- 邮箱：1206176262@qq.com
+- GitHub：https://github.com/whyeinstein
 
 ---
 
