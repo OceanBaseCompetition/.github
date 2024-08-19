@@ -21,6 +21,19 @@
 # 笔记
 [学习笔记](https://github.com/OceanBaseCompetition/OceanBaseJourney)
 
-# MiniOB项目代码
+# 项目代码
+[MiniOB](https://github.com/OceanBaseCompetition/miniob)
+```git
+# 拉取后
+git remote add public git@github.com:oceanbase/miniob.git
+git pull public
+# 然后新建自己的分支开发
+```
 
-# OceanBase项目代码
+[OceanBase](https://github.com/OceanBaseCompetition/oceanbase)
+```git
+# 拉取后
+git remote add public git@github.com:oceanbase/oceanbase.git
+git pull public
+# 然后新建自己的分支开发
+```
