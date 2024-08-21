@@ -15,8 +15,8 @@
 
 - 姓名：吴征
 - 学校：电子科技大学
-- 邮箱：
-- GitHub：
+- 邮箱：wz100931582@163.com
+- GitHub：https://github.com/Qianji-wz
 
 # 笔记
 [学习笔记](https://github.com/OceanBaseCompetition/OceanBaseJourney)
