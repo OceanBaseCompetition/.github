@@ -11,9 +11,6 @@
 - 邮箱：wz100931582@163.com
 - GitHub：https://github.com/Qianji-wz
 
-# 笔记
-[学习笔记](https://github.com/OceanBaseCompetition/OceanBaseJourney)
-
 # 项目代码
 [MiniOB](https://github.com/OceanBaseCompetition/miniob)
 ```git
